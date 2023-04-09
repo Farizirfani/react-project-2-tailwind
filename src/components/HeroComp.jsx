@@ -14,7 +14,7 @@ const HeroComp = () => {
                 <button className='text-color-2 rounded-3xl border-2 border-white h-auto lg:px-5 lg:py-3 px-2 animate__animated animate__fadeInUp animate__delay-2s'><i class="fa-regular fa-circle-play"></i> Watch Video</button>
               </div>
           </div>
-          <div className='w-50'>
+          <div className='w-50 animate__animated animate__tada animate__delay-2s'>
             <img className='scale-75 img-hor-vert -z-10' src={HandPhone} alt="handphone.png" />
           </div>
         </div>

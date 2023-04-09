@@ -23,7 +23,7 @@ const NavbarComp = () => {
             <div className='flex flex-col lg:flex-row'>
               <a href="#service" className='block lg:mr-10 px-3 text-center py-3 lg:py-5 text-zinc-50 hover:text-white font-bold'>Service</a>
               <a href="#about" className='block lg:mr-10 px-3 text-center py-3 lg:py-5 text-zinc-50 hover:text-white font-bold'>About</a>
-              <a href="#test" className='block lg:mr-10 px-3 text-center py-3 lg:py-5 text-zinc-50 hover:text-white font-bold'>Contact</a>
+              <a href="#contact" className='block lg:mr-10 px-3 text-center py-3 lg:py-5 text-zinc-50 hover:text-white font-bold'>Contact</a>
             </div>
             <div></div>
           </div>
