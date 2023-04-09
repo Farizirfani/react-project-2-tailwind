@@ -21,6 +21,8 @@
     transform: scale(-1, 1);
 }
 
-@media screen {
-    
+.slick-next:before,
+.slick-prev:before {
+    color: #46b7ad;
+    font-size: 23px;
 }

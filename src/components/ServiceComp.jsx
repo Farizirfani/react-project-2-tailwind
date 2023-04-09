@@ -3,7 +3,7 @@ import React from 'react'
 const ServiceComp = () => {
   return (
     <div className='h-full bg-bg-2 m-auto' id='service'>
-        <div className='lg:px-28 lg:py-20'>
+        <div className='lg:px-28 lg:py-20 px-5 py-3'>
             <div>
                 <h1 className='text-color-3 text-lg font-bold uppercase lg:my-6' data-aos="fade-up" >features</h1>
                 <h1 className='lg:text-4xl text-2xl font-semibold lg:tracking-wide' data-aos="fade-up" >All service in your hands</h1>

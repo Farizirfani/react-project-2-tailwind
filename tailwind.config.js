@@ -9,6 +9,7 @@ module.exports = {
         "bg-3": "#f7f7fd",
         "color-2": "#46b7ad",
         "color-3": "#4462cc",
+        star: "#f4ab25",
       },
     },
   },
