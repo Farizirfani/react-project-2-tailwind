@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-project-2-tailwind/static/css/main.50e029fc.css",
+    "main.js": "/react-project-2-tailwind/static/js/main.19e53182.js",
+    "static/media/phone.png": "/react-project-2-tailwind/static/media/phone.def6f4da38098ed52a47.png",
+    "static/media/img-3.png": "/react-project-2-tailwind/static/media/img-3.d2218ae8204e1edd3b58.png",
+    "static/media/img-1.png": "/react-project-2-tailwind/static/media/img-1.2c978f46024bd504c386.png",
+    "static/media/img-2.png": "/react-project-2-tailwind/static/media/img-2.021a6a71f708517f9577.png",
+    "index.html": "/react-project-2-tailwind/index.html",
+    "main.50e029fc.css.map": "/react-project-2-tailwind/static/css/main.50e029fc.css.map",
+    "main.19e53182.js.map": "/react-project-2-tailwind/static/js/main.19e53182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50e029fc.css",
+    "static/js/main.19e53182.js"
+  ]
+}
