@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    font-family: 'Ubuntu', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-bg{
+    background: linear-gradient(#111f52 #152665);
+}
+
+.hero{
+    height: 100vh;
+}
+
+.img-hor-vert {
+    width: 80%;
+    transform: scale(-1, 1);
+}
+
+@media screen {
+    
+}
